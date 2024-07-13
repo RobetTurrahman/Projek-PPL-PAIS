@@ -1,8 +1,3 @@
-# Projek-PPL
+# Projek-PPL-PAIS
 
-PAIS merupakan sistem pemberi pakan ikan otomatis berbasis website dengan Internet of Things (IoT) yang bertujuan untuk meningkatkan efisiensi bagi usaha yang bergerak dibidang perikanan dalam pemberian pakan ikan. Sistem ini memiliki fitur antara lain mengatur jadwal pakan ikan sesuai yang diinginkan, dimana mitra nantinya tidak perlu khawatir apabila lupa untuk memberikan pakan ikan dengan tepat waktu. Kemudian  mengatur takaran pakan ikan sesuai yang dibutuhkan, dimana nantinya mitra tidak perlu khawatir akan pemberian pakan ikan secara berlebihan. Selanjutnya ada fitur aktifkan dan menonaktifkan alat dimana fitur ini bisa mengatur alat IoT ingin diaktifkan atau dinonaktifkan. Kemudian ada fitur notifikasi yang dibagi menjadi dua yaitu melihat informasi ketersediaan pakan pada alat dan memberikan notifikasi apabila persediaan pakan hampir habis. Terakhir terdapat fitur riwayat laporan pemberian pakan ikan, dimana mitra nantinya dapat memantau pemberian pakan ikan mulai dari jadwal dan takaran. Diharapkan dengan adanya sistem ini dapat mempermudah mitra dalam pemberian pakan ikan pada usahanya.
-
-Tujuan pengembangan bisnis ini adalah:
-1. Otomatisasi pemberian pakan ikan berdasarkan waktu dan takaran dengan sistem berbasis IoT
-2. Membantu mitra dalam mengatur takaran pakan ikan sesuai dengan kebutuhan
-3. Mempermudah mitra dalam mengatur jadwal pakan ikan sesuai dengan kebutuhan
+PAIS is a website-based automatic fish feeding system that utilizes Internet of Things (IoT) technology to improve the efficiency of fisheries businesses. The system has excellent features such as customizable feed schedules and doses, as well as notifications of feed supplies that are running low. With PAIS, partners do not have to worry about forgetting to feed on time as the system will automatically manage it. PAIS helps simplify feed management, improve operational efficiency, and ensure that fish receive feed on time and in the correct dosage, resulting in a smoother and more productive fishery.
